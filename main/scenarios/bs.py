@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # FCI Charging Station object creation
 name = "FCI Charging Station"
 p_nom = 100
-n_cs = 12
+n_cs = 11
 max_ch_pwr = n_cs * [7.4]
 min_ch_pwr = n_cs * [0.0]
 n_load = 1
